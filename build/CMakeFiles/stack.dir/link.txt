@@ -1,0 +1,1 @@
+/usr/bin/g++-12  -std=c++17 -g CMakeFiles/stack.dir/main.cpp.o CMakeFiles/stack.dir/ExpressionChecker.cpp.o -o stack 
